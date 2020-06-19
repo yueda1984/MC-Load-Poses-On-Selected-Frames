@@ -8,15 +8,18 @@
    "name": "Master Controller: Load Poses On Selected Frames",
    "version": "1.0.0",
    "compatibility": "Harmony Premium 16",
-   "description": "",
+   "description": "On each selected frame, this script reads the Master Controller's current position and then load the pose that corresponds to the position.<br><br>You can load poses from Master Controller rigs created with Interporation Grid and Slider Wizards.",
    "repository": "https://github.com/yueda1984/MC-Load-Poses-On-Selected-Frames/",
    "isPackage": false,
    "files": [
-		"1700-scripts/YU_MC_Load_Poses_On_Selected_Frames.js"
-	],
-   "keywords": [],
-   "author": "",
-   "license": "",
+    "1700-scripts/"
+   ],
+   "keywords": [
+    "mastercontroller",
+    "animation"
+   ],
+   "author": "Yu Ueda",
+   "license": "MIT",
    "website": "https://github.com/yueda1984/MC-Load-Poses-On-Selected-Frames/",
    "localFiles": ""
   }
