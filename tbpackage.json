@@ -3,5 +3,22 @@
  "website": "http://raindropmoment.com/",
  "social": "",
  "repository": "https://github.com/yueda1984/MC-Load-Poses-On-Selected-Frames/",
- "extensions": []
+ "extensions": [
+  {
+   "name": "Master Controller: Load Poses On Selected Frames",
+   "version": "1.0.0",
+   "compatibility": "Harmony Premium 16",
+   "description": "",
+   "repository": "https://github.com/yueda1984/MC-Load-Poses-On-Selected-Frames/",
+   "isPackage": false,
+   "files": [
+		"1700-scripts/YU_MC_Load_Poses_On_Selected_Frames.js"
+	],
+   "keywords": [],
+   "author": "",
+   "license": "",
+   "website": "https://github.com/yueda1984/MC-Load-Poses-On-Selected-Frames/",
+   "localFiles": ""
+  }
+ ]
 }
