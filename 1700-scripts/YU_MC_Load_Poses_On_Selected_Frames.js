@@ -9,7 +9,7 @@ function MC_Load_Poses_On_Selected_Frames()
 		return;
 	}
 	
-	var localPath = specialFolders.userScripts + "/USR_MC_Load_Poses_On_Selected_Frames.ui";
+	var localPath = specialFolders.userScripts + "/YU_MC_Load_Poses_On_Selected_Frames.ui";
 	this.ui = UiLoader.load( localPath );
 	this.CBList = {};
 	
